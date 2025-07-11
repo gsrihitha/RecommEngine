@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Environment
+.env
+
+# Docker
+*.log
+*.pid
+
+# Jupyter
+.ipynb_checkpoints/
+
