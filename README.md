@@ -1,15 +1,22 @@
-#RecommEngine is a realtime Recommender System#
+# RecommEngine is a realtime Recommender System 🛒⚡
+
+A real-time, scalable, and personalized product recommendation system designed for e-commerce platforms. Built using Apache Kafka, Spark, MLlib, and deployed as microservices with Docker.
 
 ---
 
-* TechStack: 
+## 🔧 Tech Stack
 
---> Apache Kafka: Streaming user activity events
---> Apache Spark( Structure Streaming): Real-time Processing
---> Spark MLlib (ALS): Collaborative Filtering Model
---> FASTAPI/ FLASK: REST API to Serve Recommendations 
---> Amazon S3 - Data and Model Storage
---> Docker - Containerization
---> GitHub - Containerized Microservices
---> AWS EC2 - Cloud Deployment
+- **Apache Kafka** – Streaming user activity events
+- **Apache Spark (Structured Streaming)** – Real-time processing
+- **Spark MLlib (ALS)** – Collaborative filtering model
+- **FastAPI / Flask** – REST API to serve recommendations
+- **Amazon S3 / HDFS** – Data and model storage
+- **Docker** – Containerized microservices
+- **GitHub Actions** – CI/CD automation
+- **AWS EC2** – Cloud deployment
+
+---
+
+
+
 
